@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+{
     "name": "Make product internal reference unique",
     "version": "1.0",
     "depends": ["product"],
